@@ -1,8 +1,6 @@
 # BookBot
 
-BookBot is a command-line tool that analyzes the text of a book and reports word count and character frequency.
-
-Built as my first [Boot.dev](https://www.boot.dev) project.
+BookBot is a command-line tool that analyzes the text of a book and reports word count and character frequency. First [Boot.dev](https://www.boot.dev) project.
 
 ## Usage
 
